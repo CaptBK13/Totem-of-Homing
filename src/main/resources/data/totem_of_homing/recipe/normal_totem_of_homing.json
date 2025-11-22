@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "parent": "item/generated",
+  "category":"misc",
   "key": {
     "A": {"item": "minecraft:obsidian"},
     "B": {"item": "minecraft:ender_eye"},
@@ -13,7 +13,7 @@
     "ACA"
   ],
   "result": {
-    "item": "totem_of_homing:normal_totem_of_homing",
+    "id": "totem_of_homing:normal_totem_of_homing",
     "count": 1
   }
 }
